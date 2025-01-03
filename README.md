@@ -9,7 +9,7 @@
 - [ ] Analysis system to identify sales trends, customer preferences and inventory needs.
 
 
-**Workflow:** The flow of project will follow these steps below:
+**Data:** As commented above, the data used will be synthetic, i.e, with help of ChatGPT I will simulate real data for focus on building the project where this data aren't easy access. Where I will use the the [Data Creating](src/data_creating) directory for create the data.
 
 **Workflow:** The flow of project will follow these steps below:
 
