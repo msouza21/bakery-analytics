@@ -7,4 +7,6 @@
 **Key Objectives:**
 - [ ] Simple data pipeline to process and integrate sales, inventory and customer data.
 - [ ] Analysis system to identify sales trends, customer preferences and inventory needs.
-- [ ] Interactive and easy of understanding visualizations for a better reports for stakeholders to make data-driven decisions.
+
+
+**Workflow:** The flow of project will follow 
